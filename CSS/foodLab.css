@@ -121,6 +121,7 @@ form input{
     border-color: #111827;
     background-color: #1F2937;
     padding: 12px;
+    border: 5px;
 
 }
 ::placeholder{
@@ -129,6 +130,13 @@ font-size: 14px;
 line-height: 100%;
 color: #9CA3AF;
 
+}
+footer button{
+    display: block;
+    color: #FFFFFF;
+    border:5px;
+    background-color: #10B981;
+    padding: 12px;
 }
 
 
